@@ -20,17 +20,8 @@ This repository showcases projects that highlight my ability to analyze data, bu
 - [View Project](https://github.com/Lindile99/Pharmaceutical-Drug-Sales-Analysis)
   
 
-### 2. 🚢 Titanic Survival Prediction  
-- **Description:** Predicted passenger survival using decision trees.  
-- **Techniques:** Data cleaning, exploratory analysis, decision tree classifier (scikit-learn).  
-- **Highlights:**  
-  - Explored survival patterns by gender, class, and age.  
-  - Built a decision tree model for survival prediction.  
-  - Achieved clear and interpretable model results.  
-- [View Project](https://github.com/Lindile99/titanic-survival-prediction)
 
-
-### 3. 🏠 House Price Prediction (Multiple Linear Regression) 
+### 2. 🏠 House Price Prediction (Multiple Linear Regression) 
 - **Description:** Built a regression model to predict housing prices using living area and garage size.  
 - **Techniques:** Data preprocessing, exploratory data analysis, regression modeling, error analysis.  
 - **Highlights:**
