@@ -15,12 +15,12 @@ I use **SQL + Python** to explore datasets, visualize findings, and build predic
 ### 1. 💊 Pharmaceutical Drug Sales Analysis  
 - Tools: MySQL, Python (Pandas, Seaborn, Matplotlib), Scikit-learn  
 - Highlights: SQL data extraction → visualization → revenue forecasting  
-- [View Project](#)  
+- [View Project](https://github.com/Lindile99/Pharmaceutical-Drug-Sales-Analysis)
 
 ### 2. 🚢 Titanic Survival Prediction  
 - Tools: Python (Scikit-learn, Pandas, Matplotlib)  
 - Highlights: Decision Tree classifier predicting survival chances  
-- [View Project](#)  
+- [View Project](https://github.com/Lindile99/titanic-survival-prediction)
 
 ---
 
