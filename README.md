@@ -28,12 +28,12 @@ Developed a machine learning model to detect fraudulent health insurance claims 
 Python (pandas, matplotlib, seaborn, scikit-learn), EDA, Feature Engineering, Random Forest Classifier, Model Evaluation (Accuracy, Precision, Recall, F1), SMOTE (for balancing classes).  
 
 - **Highlights:**  
- - Cleaned and preprocessed health insurance claims dataset from **Zenodo**  
- - Conducted detailed **Exploratory Data Analysis (EDA)** to identify fraud patterns  
- - Trained and evaluated a Random Forest model achieving **99.89% accuracy**  
- - High **Precision (100%)** and **Recall (98.15%)**, indicating near-perfect fraud detection  
- - Interpreted results using **confusion matrix** and performance metrics  
- - Suggested deployment strategy for real-time claim monitoring  
+  - Cleaned and preprocessed health insurance claims dataset from **Zenodo**  
+  - Conducted detailed **Exploratory Data Analysis (EDA)** to identify fraud patterns  
+  - Trained and evaluated a Random Forest model achieving **99.89% accuracy**  
+  - High **Precision (100%)** and **Recall (98.15%)**, indicating near-perfect fraud detection  
+  - Interpreted results using **confusion matrix** and performance metrics  
+  - Suggested deployment strategy for real-time claim monitoring  
 
 [🔗 View Project](
 https://github.com/Lindile99/Health-Insurance-Claim-Fraud-Detection).
