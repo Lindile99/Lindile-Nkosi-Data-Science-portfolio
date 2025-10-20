@@ -64,8 +64,6 @@ https://github.com/Lindile99/Health-Insurance-Claim-Fraud-Detection).
 
 ---
 ## 🔨 Work in Progress
-- 🏥 **Healthcare Fraud Detection** – Detecting anomalies in healthcare claims using SQL + Python ML models.
-  
 - 🧬 **Clinical Trial Data Analysis** – Predicting treatment success rates using patient data.  
 
 ---
