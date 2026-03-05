@@ -1,5 +1,9 @@
 # 📂 Data Science Portfolio
 
+![GitHub Repo stars](https://img.shields.io/github/stars/Lindile99?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Lindile99?style=social)
+
+
 Welcome to my **Data Science & Data Analytics Portfolio** 🚀  
 
 I hold a **BSc in Chemistry and Biochemistry & Cell Biology** and recently transitioned into **data analytics and data science** through a structured **Data Science Bootcamp**.
