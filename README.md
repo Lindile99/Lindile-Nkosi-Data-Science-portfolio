@@ -39,19 +39,6 @@ Python (pandas, matplotlib, seaborn, scikit-learn), EDA, Feature Engineering, Ra
 https://github.com/Lindile99/Health-Insurance-Claim-Fraud-Detection).
 
 
-  
-
-### 3. 🏠 House Price Prediction (Multiple Linear Regression) 
-- **Description:** Built a regression model to predict housing prices using living area and garage size.  
-- **Techniques:** Data preprocessing, exploratory data analysis, regression modeling, error analysis.  
-- **Highlights:**
-  - Strong correlation between      Gr_Liv_Area and house price.  
-  - Model evaluation using RMSE and residual plots.  
-  - Clear demonstration of linear regression application in real estate. 
-- [🔗 View Project](https://github.com/Lindile99/house-price-prediction-model)
-
-
-
 ---
 
 ## 🔑 Skills Demonstrated
@@ -61,10 +48,6 @@ https://github.com/Lindile99/Health-Insurance-Claim-Fraud-Detection).
 - Predictive Modeling (Regression, Classification, Forecasting)  
 - Data Visualization (Matplotlib, Seaborn)  
 - Data storytelling with clear visuals & insights 
-
----
-## 🔨 Work in Progress
-- 🧬 **Clinical Trial Data Analysis** – Predicting treatment success rates using patient data.  
 
 ---
 ## 🎓 Background
